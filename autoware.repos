@@ -28,7 +28,7 @@ repositories:
   universe/autoware.universe:
     type: git
     url: https://github.com/atanasko/autoware.universe.git
-    version: main
+    version: f1tenth_humble_abm
   universe/external/tier4_ad_api_adaptor: # TODO(TIER IV): Improve design/code and transfer to AWF
     type: git
     url: https://github.com/tier4/tier4_ad_api_adaptor.git
