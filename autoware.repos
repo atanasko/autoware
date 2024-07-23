@@ -25,8 +25,8 @@ repositories:
     version: 1e8b6d234e2690c9da386f006bb60835cdccddfd
   universe/autoware.universe:
     type: git
-    url: https://github.com/autowarefoundation/autoware.universe.git
-    version: f1tenth_humble
+    url: https://github.com/atanasko/autoware.universe.git
+    version: f1tenth_humble_abm
   universe/external/tier4_ad_api_adaptor:
     type: git
     url: https://github.com/tier4/tier4_ad_api_adaptor.git
